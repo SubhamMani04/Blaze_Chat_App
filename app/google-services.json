@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "186540027722",
+    "project_id": "blaze-9935d",
+    "storage_bucket": "blaze-9935d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186540027722:android:7ec9e652303705486fdbb3",
+        "android_client_info": {
+          "package_name": "com.example.blaze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186540027722-c3ppqbphvg9p67880u5kgrvndi8fg6ig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blaze",
+            "certificate_hash": "cd37e8c12953fed0d1255947c5c78274baab13f1"
+          }
+        },
+        {
+          "client_id": "186540027722-ipnifcvamsrcnpnbf0fopmu6j8rbihsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB58MkXi1an_lq-xF37Mihoc0zWKpj8oIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186540027722-ipnifcvamsrcnpnbf0fopmu6j8rbihsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

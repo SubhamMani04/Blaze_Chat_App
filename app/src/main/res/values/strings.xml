@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Blaze</string>
+    <string name="fast_and_reliable"><![CDATA[Fast & Reliable]]></string>
+    <string name="api_key">tdzu2exfpfpg</string>
+    <string name="start_channel">Start a new channel</string>
+    <string name="logout">Logout</string>
+    <string name="search">Search</string>
+</resources>
